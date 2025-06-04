@@ -21,4 +21,4 @@ Clustered job descriptions using TF-IDF and KMeans.
 
 🔗 [GitHub](https://github.com/ferdaousbouzaiene)  
 🔗 [LinkedIn](https://linkedin.com/in/ferdaousbouzaiene)  
-📧 [you@example.com](mailto:ferdaous.bouzaiene@gmail.com)
+📧 [ferdaous.bouzaiene@gmail.com](mailto:ferdaous.bouzaiene@gmail.com)
