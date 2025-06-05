@@ -15,7 +15,8 @@ Built a hybrid movie recommender combining traditional collaborative filtering w
   - Content-based similarity (based on genres, keywords)
   - LLM-generated movie suggestions: “If you liked X, try Y because...”
   - Interactive Streamlit app with natural language input
-    
+
+[More about project:](/projectrecommendation)
 ---
 
 
