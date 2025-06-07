@@ -6,7 +6,7 @@ I specialize in machine learning, data science, and storytelling.
 
 ## Projects
 
-### 🎬 [Movie Recommendation System with LLMs](https://github.com/layla-dev/movie-recommender)
+### 🎬 [Show Recommendation System with LLMs](https://github.com/ferdaousbouzaiene/showrecommender)
 Built a hybrid movie recommender combining traditional collaborative filtering with a GPT-powered semantic engine that generates personalized suggestions from movie metadata.
 
 - Tools: Python, pandas, scikit-learn, OpenAI GPT-4, Streamlit
