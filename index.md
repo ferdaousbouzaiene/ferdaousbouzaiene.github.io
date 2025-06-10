@@ -17,6 +17,18 @@ Built a hybrid movie recommender combining traditional collaborative filtering w
   - Interactive Streamlit app with natural language input
 
 [More about project:](/projectrecommendation)
+
+
+---
+
+
+### 📚 [Agentellic](https://github.com/layla-dev/pdf-rag-qa)
+Implemented Retrieval-Augmented Generation (RAG) using LLMs to create a chatbot that answers questions from PDF documents.
+
+- Tools: LangChain, OpenAI API, FAISS, Streamlit
+- Highlights: Handles long docs, fast semantic retrieval, live demo
+
+
 ---
 
 
