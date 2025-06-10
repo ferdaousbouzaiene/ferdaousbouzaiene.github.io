@@ -50,7 +50,7 @@ Built a content-based recommendation system for restaurants using TF-IDF and cos
 ---
 
 
-## Resume
+## Resumé (or CV?)
 
 📄 [Download My Resume](resume.pdf)
 
