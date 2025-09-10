@@ -57,24 +57,40 @@ Built a hybrid movie recommender combining traditional collaborative filtering w
 ### 📚 [Agentellic](https://github.com/layla-dev/pdf-rag-qa)
 Implemented Retrieval-Augmented Generation (RAG) using LLMs to create a chatbot that answers questions from PDF documents.
 
-- Tools: LangChain, OpenAI API, FAISS, Streamlit
-- Highlights: Handles long docs, fast semantic retrieval, live demo
+- Tools: Python, pandas, scikit-learn, OpenAI GPT-4, Streamlit  
+- Highlights:
+  - Collaborative filtering from user ratings (matrix factorization)  
+  - Content-based similarity with genres and keywords  
+  - LLM-generated recommendations: “If you liked X, try Y because…”  
+  - Streamlit app with natural language input for interactive querying  
+
+**Impact**: Showcases how to blend classical ML with modern LLMs to create intuitive, explainable recommendations.  
 
 ---
 
 ### 📚 [PDF Q&A Chatbot with RAG](https://github.com/layla-dev/pdf-rag-qa)
 Implemented Retrieval-Augmented Generation (RAG) using LLMs to create a chatbot that answers questions from PDF documents.
 
-- Tools: LangChain, OpenAI API, FAISS, Streamlit
-- Highlights: Handles long docs, fast semantic retrieval, live demo
+- Tools: LangChain, OpenAI API, FAISS, Streamlit  
+- Highlights:
+  - Handles long PDFs and extracts relevant passages  
+  - Explores different chunking strategies and embeddings  
+  - Lightweight UI to demo retrieval performance  
+
+**Impact**: Reinforces knowledge of vector search + RAG patterns, key skills for modern AI engineering.  
 
 ---
 
 ### 🍽️ [Restaurant Recommender System](https://github.com/layla-dev/restaurant-recommender)
 Built a content-based recommendation system for restaurants using TF-IDF and cosine similarity on dish descriptions, cuisines, and customer reviews.
 
-- Tools: Python, pandas, scikit-learn, Streamlit
-- Highlights: Interactive filtering, cuisine preferences, location-based similarity
+- Tools: Python, pandas, scikit-learn, Streamlit  
+- Highlights:
+  - TF-IDF vectorization + cosine similarity on menu data  
+  - Interactive Streamlit app for filtering cuisines & locations  
+  - Prototype for personalized dining suggestions  
+
+**Impact**: Demonstrates classical NLP + recommender techniques applied to real-world consumer data.  
 
 ---
 
