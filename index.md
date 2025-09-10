@@ -24,7 +24,7 @@ I specialize in machine learning, data science, and storytelling.
 
 ## Projects
 
-### 🍄🥾 [Spores & Outdoors](https://github.com/me/spores-and-outdoors)
+### 🍄🥾 [Spores & Outdoors](https://github.com/ferdaousbouzaiene/Spores-Outdoors)
 [test it out 🍄🍀](https://spores-outdoors-iuuvvacjpqlqmg6ejunewm.streamlit.app/)
 
 
@@ -40,7 +40,7 @@ A playful **weather-based advisor** that tells you whether today is better for m
 
 ---
 
-### 🏋️ [AI-Powered Workout Recommendation System](https://github.com/me/workout-recommender)
+### 🏋️ [AI-Powered Workout Recommendation System](https://github.com/ferdaousbouzaiene/gymcoachapp)
 Built a comprehensive fitness recommendation system using ensemble machine learning models that generate personalized workout plans based on user preferences and goals.
 
 - Tools: Python, scikit-learn, XGBoost, TensorFlow, pandas, matplotlib  
@@ -56,7 +56,7 @@ Built a comprehensive fitness recommendation system using ensemble machine learn
 
 ---
 
-### 🎬 [Show Recommendation System with LLMs](https://github.com/me/showrecommender)
+### 🎬 [Show Recommendation System with LLMs](https://github.com/ferdaousbouzaiene/showrecommender)
 Built a hybrid movie recommender combining traditional collaborative filtering with a GPT-powered semantic engine that generates personalized suggestions from movie metadata.
 
 - Tools: Python, pandas, scikit-learn, OpenAI GPT-4, Streamlit
@@ -70,7 +70,7 @@ Built a hybrid movie recommender combining traditional collaborative filtering w
 
 ---
 
-### 📚 [Agentellic](https://github.com/layla-dev/pdf-rag-qa)
+### 📚 [Agentellic](https://github.com/ferdaousbouzaiene/agentellic)
 Implemented Retrieval-Augmented Generation (RAG) using LLMs to create a chatbot that answers questions from PDF documents.
 
 - Tools: Python, pandas, scikit-learn, OpenAI GPT-4, Streamlit  
@@ -84,7 +84,7 @@ Implemented Retrieval-Augmented Generation (RAG) using LLMs to create a chatbot 
 
 ---
 
-### 📚 [PDF Q&A Chatbot with RAG](https://github.com/layla-dev/pdf-rag-qa)
+### 📚 [PDF Q&A Chatbot with RAG](https://github.com/ferdaousbouzaiene/RagProject)
 Implemented Retrieval-Augmented Generation (RAG) using LLMs to create a chatbot that answers questions from PDF documents.
 
 - Tools: LangChain, OpenAI API, FAISS, Streamlit  
@@ -97,7 +97,7 @@ Implemented Retrieval-Augmented Generation (RAG) using LLMs to create a chatbot 
 
 ---
 
-### 🍽️ [Restaurant Recommender System](https://github.com/layla-dev/restaurant-recommender)
+### 🍽️ [Restaurant Recommender System](https://github.com/ferdaousbouzaiene/restaurantrecommender)
 Built a content-based recommendation system for restaurants using TF-IDF and cosine similarity on dish descriptions, cuisines, and customer reviews.
 
 - Tools: Python, pandas, scikit-learn, Streamlit  
