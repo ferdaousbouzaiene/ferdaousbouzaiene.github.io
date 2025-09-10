@@ -8,8 +8,6 @@ I specialize in machine learning, data science, and storytelling.
 
 ## 🛠️ Skills Matrix
 
-## 🛠️ Skills Matrix
-
 | Category             | Skills / Tools |
 |----------------------|----------------|
 | **Programming**      | Python, SQL, Git |
