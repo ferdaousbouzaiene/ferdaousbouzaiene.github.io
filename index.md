@@ -6,6 +6,20 @@ I specialize in machine learning, data science, and storytelling.
 
 ---
 
+## 🛠️ Skills Matrix
+
+| Category             | Skills / Tools |
+|----------------------|----------------|
+| **Programming**      | Python, SQL, Bash, Git |
+| **Data Science**     | pandas, NumPy, scikit-learn, TensorFlow, XGBoost |
+| **Machine Learning** | Recommender Systems, Ensemble Models, Classification, Regression, Clustering |
+| **LLMs & NLP**       | OpenAI GPT-4, LangChain, FAISS, RAG pipelines, TF-IDF, cosine similarity |
+| **Data Engineering** | PostgreSQL, SQLAlchemy, Streamlit, REST APIs, Data Pipelines |
+| **Visualization**    | matplotlib, seaborn, Streamlit, dashboards |
+| **Other**            | Experiment tracking, Model evaluation, Jupyter Notebooks |
+
+---
+
 ## Projects
 
 ### 🍄🥾 [Spores & Outdoors](https://github.com/me/spores-and-outdoors)
