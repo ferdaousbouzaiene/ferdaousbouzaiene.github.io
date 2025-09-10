@@ -4,9 +4,40 @@ I’m a data scientist passionate about building useful models, cleaning messy d
 
 I specialize in machine learning, data science, and storytelling.
 
+---
+
 ## Projects
 
-### 🎬 [Show Recommendation System with LLMs](https://github.com/ferdaousbouzaiene/showrecommender)
+### 🍄🥾 [Spores & Outdoors](https://github.com/me/spores-and-outdoors)
+A playful **weather-based advisor** that tells you whether today is better for mushroom foraging or hiking. Powered by **OpenWeatherMap**, **PostgreSQL**, and **Streamlit**.
+
+- Tools: Python, Streamlit, SQLAlchemy, PostgreSQL, pandas
+- Highlights:
+  - Real-time weather fetcher with OpenWeather API
+  - Mushroom Foraging Score & Hiking Comfort Score (0–10)
+  - PostgreSQL integration to log weather + user queries
+  - Data science notebooks for EDA and modeling future predictions
+  - Playful UI with custom fonts, blurred background image, and verdicts
+
+---
+
+### 🏋️ [AI-Powered Workout Recommendation System](https://github.com/me/workout-recommender)
+Built a comprehensive fitness recommendation system using ensemble machine learning models that generate personalized workout plans based on user preferences and goals.
+
+- Tools: Python, scikit-learn, XGBoost, TensorFlow, pandas, matplotlib  
+- Datasets: 3 integrated datasets (2,918 exercises, 973 user profiles, 248 calorie activities)  
+- Highlights:
+  - **Hybrid Recommendation Model**: collaborative + content-based filtering to predict top-rated exercises  
+  - **Calorie Prediction Engine**: ensemble of Random Forest, XGBoost, and Gradient Boosting with metabolic features  
+  - **Smart Workout Generator**: balanced plans by muscle groups, time constraints, and goals  
+  - **Domain Knowledge Integration**: BMR calculations, MET values, exercise science principles  
+  - **Interactive Jupyter Notebook**: full pipeline with visualizations and validation  
+
+**Impact**: Delivers personalized workouts with 85%+ accuracy in preference prediction and calorie estimation within 15% error rate.  
+
+---
+
+### 🎬 [Show Recommendation System with LLMs](https://github.com/me/showrecommender)
 Built a hybrid movie recommender combining traditional collaborative filtering with a GPT-powered semantic engine that generates personalized suggestions from movie metadata.
 
 - Tools: Python, pandas, scikit-learn, OpenAI GPT-4, Streamlit
@@ -18,9 +49,7 @@ Built a hybrid movie recommender combining traditional collaborative filtering w
 
 [More about project:](/projectrecommendation)
 
-
 ---
-
 
 ### 📚 [Agentellic](https://github.com/layla-dev/pdf-rag-qa)
 Implemented Retrieval-Augmented Generation (RAG) using LLMs to create a chatbot that answers questions from PDF documents.
@@ -28,9 +57,7 @@ Implemented Retrieval-Augmented Generation (RAG) using LLMs to create a chatbot 
 - Tools: LangChain, OpenAI API, FAISS, Streamlit
 - Highlights: Handles long docs, fast semantic retrieval, live demo
 
-
 ---
-
 
 ### 📚 [PDF Q&A Chatbot with RAG](https://github.com/layla-dev/pdf-rag-qa)
 Implemented Retrieval-Augmented Generation (RAG) using LLMs to create a chatbot that answers questions from PDF documents.
@@ -40,7 +67,6 @@ Implemented Retrieval-Augmented Generation (RAG) using LLMs to create a chatbot 
 
 ---
 
-
 ### 🍽️ [Restaurant Recommender System](https://github.com/layla-dev/restaurant-recommender)
 Built a content-based recommendation system for restaurants using TF-IDF and cosine similarity on dish descriptions, cuisines, and customer reviews.
 
@@ -48,7 +74,6 @@ Built a content-based recommendation system for restaurants using TF-IDF and cos
 - Highlights: Interactive filtering, cuisine preferences, location-based similarity
 
 ---
-
 
 ## Resumé (or CV?)
 
