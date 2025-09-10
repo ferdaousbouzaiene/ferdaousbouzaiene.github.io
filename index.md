@@ -8,15 +8,19 @@ I specialize in machine learning, data science, and storytelling.
 
 ## 🛠️ Skills Matrix
 
+## 🛠️ Skills Matrix
+
 | Category             | Skills / Tools |
 |----------------------|----------------|
-| **Programming**      | Python, SQL, Bash, Git |
-| **Data Science**     | pandas, NumPy, scikit-learn, TensorFlow, XGBoost |
-| **Machine Learning** | Recommender Systems, Ensemble Models, Classification, Regression, Clustering |
-| **LLMs & NLP**       | OpenAI GPT-4, LangChain, FAISS, RAG pipelines, TF-IDF, cosine similarity |
-| **Data Engineering** | PostgreSQL, SQLAlchemy, Streamlit, REST APIs, Data Pipelines |
-| **Visualization**    | matplotlib, seaborn, Streamlit, dashboards |
-| **Other**            | Experiment tracking, Model evaluation, Jupyter Notebooks |
+| **Programming**      | Python, SQL, Git |
+| **Machine Learning** | End-to-end ML workflows (data ingestion → feature engineering → training → evaluation → deployment), Ranking & Recommendation Systems, Price Prediction (projects), Feature Engineering |
+| **LLMs & NLP**       | HuggingFace Transformers (BERT, T5, GPT), LangChain, Retrieval-Augmented Generation (RAG), Agentic Workflows, Prompt Engineering, Semantic Search (FAISS) |
+| **Deep Learning**    | Transformers, Transfer Learning, CNNs, PyTorch, TensorFlow |
+| **MLOps / LLMops**   | Google Cloud Platform (GCP), FastAPI, SQLAlchemy, Streamlit, CI/CD, Docker, Kubernetes (basics), Model/Version Tracking, Automated Evaluation (evals frameworks), Latency & Cost Monitoring |
+| **Data Engineering** | PostgreSQL, SQLAlchemy, REST APIs, Data Pipelines, Containerized Services |
+| **Visualization**    | Streamlit, matplotlib, seaborn, dashboards, storytelling with data |
+| **Collaboration**    | Cross-functional teamwork with product & engineering, Code reviews, Best practices for reproducible ML |
+
 
 ---
 
