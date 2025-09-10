@@ -10,6 +10,8 @@ I specialize in machine learning, data science, and storytelling.
 
 ### 🍄🥾 [Spores & Outdoors](https://github.com/me/spores-and-outdoors)
 [test it out 🍄🍀](https://spores-outdoors-iuuvvacjpqlqmg6ejunewm.streamlit.app/)
+
+
 A playful **weather-based advisor** that tells you whether today is better for mushroom foraging or hiking. Powered by **OpenWeatherMap**, **PostgreSQL**, and **Streamlit**.
 
 - Tools: Python, Streamlit, SQLAlchemy, PostgreSQL, pandas
