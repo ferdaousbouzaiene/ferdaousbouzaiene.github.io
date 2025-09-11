@@ -25,7 +25,7 @@ I specialize in machine learning, data science, and storytelling.
 ## Projects
 
 ### 🍄🥾 [Spores & Outdoors](https://github.com/ferdaousbouzaiene/Spores-Outdoors)
-[test it out 🍄🍀](https://spores-outdoors-iuuvvacjpqlqmg6ejunewm.streamlit.app/)
+[test it out 🍄🍀🌦️](https://spores-outdoors-iuuvvacjpqlqmg6ejunewm.streamlit.app/)
 
 
 A playful **weather-based advisor** that tells you whether today is better for mushroom foraging or hiking. Powered by **OpenWeatherMap**, **PostgreSQL**, and **Streamlit**.
@@ -57,6 +57,8 @@ Built a comprehensive fitness recommendation system using ensemble machine learn
 ---
 
 ### 🏋️ [What is this mushroom?](https://github.com/yves-rdlb/What-is-this-Mushroom/tree/master)
+[test it out 🍄🍽️☠️](https://mushroom-frontend-kuiusfhsjsm5jz6og2mcig.streamlit.app/)
+
 Safety-first **mushroom identification demo** using computer vision and API-first architecture. Predicts species from an image and maps to deterministic edibility with confidence gating.  
 
 - **Frontend**: Streamlit app (API-only client)  
