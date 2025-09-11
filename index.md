@@ -56,6 +56,17 @@ Built a comprehensive fitness recommendation system using ensemble machine learn
 
 ---
 
+### 🏋️ [What is this mushroom?](https://github.com/yves-rdlb/What-is-this-Mushroom/tree/master)
+Safety-first **mushroom identification demo** using computer vision and API-first architecture. Predicts species from an image and maps to deterministic edibility with confidence gating.  
+
+- **Frontend**: Streamlit app (API-only client)  
+- **Backend**: FastAPI with Vision Transformer (ViT) model; legacy EfficientNet path  
+- **Pipeline**: Image preprocessing → ViT classification (~169 species) → CSV-driven edibility lookup → safety gate (abstain below confidence threshold)  
+- **Extra**: Optional heatmap visualization from species occurrence data  
+
+**Impact:** Demonstrates **end-to-end ML engineering** (model serving, inference API, frontend integration, Dockerization, CI/testing). Shows awareness of **safety-critical UX** by abstaining on low confidence predictions.
+
+---
 ### 🎬 [Show Recommendation System with LLMs](https://github.com/ferdaousbouzaiene/showrecommender)
 Built a hybrid movie recommender combining traditional collaborative filtering with a GPT-powered semantic engine that generates personalized suggestions from movie metadata.
 
