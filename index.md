@@ -3,7 +3,7 @@
 I’m a data scientist passionate about building useful models, cleaning messy datasets, and turning insights into action. Whether it’s recommending your next favorite dish or analyzing product trends, I love connecting data to real-world problems.
 
 I specialize in machine learning, data science, and storytelling.
-
+(disclaimer: I like emojis :/ so there will be plenty of them :3)
 ---
 
 ## 🛠️ Skills Matrix
