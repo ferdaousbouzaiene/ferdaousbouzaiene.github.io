@@ -1,5 +1,5 @@
 # 👋 Hey there! I'm [ferdaous] 
-## 🧠 Full-time Data Whisperer ✨• 🍕 Part-time Ramen Connoisseur 🍜• 🤖 Occasional Nature Lover 🍀
+## 🧠 Full-time Data Whisperer ✨ • 🍕 Part-time Ramen Connoisseur 🍜 • 🤖 Occasional Nature Lover 🍀
 
 Welcome to my digital playground where I turn messy datasets into meaningful stories, build recommendation engines that know you better than you know yourself, and occasionally teach machines to identify whether that mushroom will kill you or not! 🍄☠️
 
@@ -12,7 +12,7 @@ Welcome to my digital playground where I turn messy datasets into meaningful sto
 
 | Category             | Skills & Secret Weapons |
 |----------------------|-------------------------|
-| **Programming**      | Python 🐍 (my spirit animal), SQL 📊 (for when data needs therapy), Git 🔄 (time machine for code) |
+| **Programming**      | Python 🐍 (my spirit animal (not)), SQL 📊 (for when data needs therapy), Git 🔄 (time machine for code) |
 | **Machine Learning** | End-to-end ML pipelines (from "uh oh" to "ta-da!"), Recommendation Systems 🎯 (digital cupid), Feature Engineering 🔧 (data plastic surgery) |
 | **LLMs & NLP**       | Making robots talk like humans 🤖💬, RAG systems (teaching AI to Google properly), Prompt Engineering 🎭 (AI whispering) |
 | **Deep Learning**    | Neural networks that actually work ⚡, Transfer Learning (because why reinvent the wheel?), PyTorch & TensorFlow (my computational paintbrushes) |
@@ -173,7 +173,7 @@ Implemented Retrieval-Augmented Generation (RAG) using LLMs to create a chatbot 
 **Impact**: Reinforces knowledge of vector search + RAG patterns, key skills for modern AI engineering.  
 
 ---
-
+<!--
 ### 🍽️ [Restaurant Recommender System](https://github.com/ferdaousbouzaiene/restaurantrecommender)
 Built a content-based recommendation system for restaurants using TF-IDF and cosine similarity on dish descriptions, cuisines, and customer reviews.
 
@@ -184,7 +184,7 @@ Built a content-based recommendation system for restaurants using TF-IDF and cos
   - Prototype for personalized dining suggestions  
 
 **Impact**: Demonstrates classical NLP + recommender techniques applied to real-world consumer data.  
-
+-->
 ---
 
 ## 🎲 Random Fun Facts About My Data Journey
@@ -198,9 +198,6 @@ Built a content-based recommendation system for restaurants using TF-IDF and cos
 ---
 
 
-
-
----
 ## Resumé (or CV?)
 
 📄 [Download My Resume](resume.pdf)
