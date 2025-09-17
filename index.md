@@ -115,7 +115,7 @@ Implemented Retrieval-Augmented Generation (RAG) using LLMs to create a chatbot 
 **Impact**: Reinforces knowledge of vector search + RAG patterns, key skills for modern AI engineering.  
 
 ---
-
+<!--
 ### 🍽️ [Restaurant Recommender System](https://github.com/ferdaousbouzaiene/restaurantrecommender)
 Built a content-based recommendation system for restaurants using TF-IDF and cosine similarity on dish descriptions, cuisines, and customer reviews.
 
@@ -126,7 +126,7 @@ Built a content-based recommendation system for restaurants using TF-IDF and cos
   - Prototype for personalized dining suggestions  
 
 **Impact**: Demonstrates classical NLP + recommender techniques applied to real-world consumer data.  
-
+-->
 ---
 
 ## 🎲 Random Fun Facts About My Data Journey
