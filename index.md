@@ -24,7 +24,7 @@ Welcome to my digital playground where I turn messy datasets into meaningful sto
 
 ## Projects
 
-### 🍄🥾 [Spores & Outdoors]
+### 🍄🥾 Spores & Outdoors
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://spores-outdoors-iuuvvacjpqlqmg6ejunewm.streamlit.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black)](https://github.com/ferdaousbouzaiene/Spores-Outdoors)
 
