@@ -24,7 +24,7 @@ Welcome to my digital playground where I turn messy datasets into meaningful sto
 
 ## Projects
 
-### 🍄🥾 [Spores & Outdoors](https://github.com/ferdaousbouzaiene/Spores-Outdoors)
+### 🍄🥾 [Spores & Outdoors]
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://spores-outdoors-iuuvvacjpqlqmg6ejunewm.streamlit.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black)](https://github.com/ferdaousbouzaiene/Spores-Outdoors)
 
@@ -85,8 +85,8 @@ Safety-first **mushroom identification demo** using computer vision and API-firs
 
 ---
 ### 🎬 [Show Recommendation System with LLMs](https://github.com/ferdaousbouzaiene/showrecommender)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](your-deployed-app-url)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black)](https://github.com/me/showrecommender)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](url)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black)](https://github.com/ferdaousbouzaiene/showrecommender)
 
 Built a hybrid movie recommender combining traditional collaborative filtering with a GPT-powered semantic engine that generates personalized suggestions from movie metadata.
 
@@ -102,8 +102,8 @@ Built a hybrid movie recommender combining traditional collaborative filtering w
 ---
 
 ### 📚 [Agentellic](https://github.com/ferdaousbouzaiene/agentellic)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](your-deployed-app-url)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black)](https://github.com/me/agentellic)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](url)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black)](https://github.com/ferdaousbouzaiene/agentellic)
 
 Implemented Retrieval-Augmented Generation (RAG) using LLMs to create a chatbot that answers questions from PDF documents.
 
@@ -119,8 +119,8 @@ Implemented Retrieval-Augmented Generation (RAG) using LLMs to create a chatbot 
 ---
 
 ### 📚 [PDF Q&A Chatbot with RAG](https://github.com/ferdaousbouzaiene/RagProject)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](your-deployed-app-url)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black)](https://github.com/me/RagProject)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](url)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black)](https://github.com/ferdaousbouzaiene/RagProject)
 
 Implemented Retrieval-Augmented Generation (RAG) using LLMs to create a chatbot that answers questions from PDF documents.
 
