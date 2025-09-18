@@ -25,8 +25,9 @@ Welcome to my digital playground where I turn messy datasets into meaningful sto
 ## Projects
 
 ### 🍄🥾 [Spores & Outdoors](https://github.com/ferdaousbouzaiene/Spores-Outdoors)
-[test it out 🍄🍀🌦️](https://spores-outdoors-iuuvvacjpqlqmg6ejunewm.streamlit.app/)
 *Because sometimes you need an AI to tell you if it's mushroom weather* ☔
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://spores-outdoors-iuuvvacjpqlqmg6ejunewm.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black)](https://github.com/ferdaousbouzaiene/Spores-Outdoors)
 
 Ever wondered if today's weather is perfect for mushroom hunting or if you should just stick to Netflix? This cheeky little app combines real-time weather data with questionable life advice to give you scientifically-backed outdoor recommendations!
 
@@ -42,82 +43,30 @@ Ever wondered if today's weather is perfect for mushroom hunting or if you shoul
 
 ---
 
-## 🤖 AI Fitness Recommender Pro Gym Coach Fitness Trainer Buddy 🤖
-
-**Multi-Agent Machine Learning System for Personalized Fitness Planning**
-
+### 🤖 AI Fitness Recommender Pro Gym Coach Fitness Trainer Buddy 🤖
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](your-deployed-app-url)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black)](your-github-repo-url)
 
-### 🎯 Project Overview
+**Multi-Agent Machine Learning System for Personalized Fitness Planning**
 
-Developed a small sophisticated AI-powered fitness recommendation system combining **multi-agent architecture** with **machine learning models** trained on 7,000+  workout records. The system uses collaborative AI agents to create personalized workout plans and nutrition guidance, demonstrating advanced MLOps practices and user-centric design.
+Developed a production-ready AI fitness recommendation system combining **multi-agent architecture** with **ML models** trained on 7,000+ workout records. The system achieves **85%+ prediction accuracy** with <100ms response times for real-time personalized workout generation.
 
-### 🔬 Technical Achievements 🔬
+**Key Technical Achievements**:
+- **ML Pipeline**: Random Forest models (R² > 0.8) for exercise rating prediction
+- **Multi-Agent AI**: CrewAI framework coordinating Data Analyst, Personal Trainer, and Nutrition Advisor agents  
+- **Production Deployment**: Streamlit web app with interactive Plotly analytics and real-time ML inference
 
-**Machine Learning Pipeline**
-- Trained **Random Forest models** achieving **R² > 0.8** for exercise rating prediction
-- Implemented **collaborative filtering** for exercise similarity recommendations
-- Built **user clustering system** using K-Means for demographic-based personalization
-- Deployed **real-time ML inference** with <100ms response times
-
-**Multi-Agent AI Architecture**
-- **Data Analyst Agent**: Leverages ML models for exercise rating and calorie predictions
-- **Personal Trainer Agent**: Applies exercise science principles for balanced workout creation
-- **Nutrition Advisor Agent**: Generates personalized nutrition plans based on fitness goals
-
-**Production-Ready Implementation**
-- **Streamlit web application** with custom UI/UX design
-- **Real dataset integration** from fitness tracking platforms (5,000+ records)
-- **Interactive visualizations** using Plotly for workout analytics
-- **Scalable architecture** supporting multiple user profiles and preferences
-
-### 💡 Key Features
-
-- **Personalized Recommendations**: Equipment-based filtering, fitness level adaptation, goal-oriented planning
-- **ML-Powered Insights**: Predictive models for exercise enjoyment and calorie burn
-- **Real-Time Analytics**: Interactive charts showing workout composition and effectiveness
-- **Export Functionality**: Downloadable workout plans with detailed exercise instructions
-
-### 📊 Business Impact
-
-- **User Engagement**: Personalized recommendations increase workout completion rates
-- **Scalability**: Handles diverse user profiles and equipment constraints
-- **Data-Driven**: ML models continuously improve with user feedback
-- **Accessibility**: Supports home workouts with minimal equipment requirements
-
-### 🛠️ Technologies Used
-
-**Core Stack**: Python, Streamlit, scikit-learn, pandas, numpy  
-**ML/AI**: Random Forest, K-Means, Collaborative Filtering, CrewAI  
-**Visualization**: Plotly, custom CSS styling  
-**Deployment**: Streamlit Community Cloud, GitHub integration  
-
-### 🏆 Technical Highlights
-
-- **End-to-End ML Pipeline**: From data preprocessing to model deployment
-- **Multi-Agent Coordination**: CrewAI framework for agent communication and task orchestration
-- **Real Dataset Training**: 600K+ exercise database with biometric correlations
-- **Production Deployment**: Live web application with continuous integration
-
-### 📈 Results & Metrics
-
-| Metric | Achievement |
-|--------|-------------|
-| Model Accuracy | 85%+ across all prediction tasks |
-| User Satisfaction | 4.2/5.0 predicted average rating |
-| Response Time | <100ms for ML predictions |
-| Dataset Size | 7,000+ training samples |
-
----
-
-*This project demonstrates my expertise in **machine learning engineering**, **multi-agent AI systems**, and **production ML deployment** while solving real-world fitness planning challenges (or at least a challenge for me :p).*
+**Tech Stack**: Python, scikit-learn, CrewAI, Streamlit, Plotly  
+**Impact**: Personalized recommendations for diverse equipment constraints and fitness goals
 
 
 ---
 
 ### 🏋️ [What is this mushroom?](https://github.com/yves-rdlb/What-is-this-Mushroom/tree/master)
-[test it out 🍄🍽️☠️](https://mushroom-frontend-kuiusfhsjsm5jz6og2mcig.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://mushroom-frontend-kuiusfhsjsm5jz6og2mcig.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black)](https://github.com/yves-rdlb/What-is-this-Mushroom/tree/master)
+
+
 *Teaching computers to save lives, one fungus at a time* ⚗️
 
 Safety-first **mushroom identification demo** using computer vision and API-first architecture. Predicts species from an image and maps to deterministic edibility with confidence gating.  
@@ -134,6 +83,9 @@ Safety-first **mushroom identification demo** using computer vision and API-firs
 
 ---
 ### 🎬 [Show Recommendation System with LLMs](https://github.com/ferdaousbouzaiene/showrecommender)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](your-deployed-app-url)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black)](https://github.com/me/showrecommender)
+
 Built a hybrid movie recommender combining traditional collaborative filtering with a GPT-powered semantic engine that generates personalized suggestions from movie metadata.
 
 - Tools: Python, pandas, scikit-learn, OpenAI GPT-4, Streamlit
@@ -148,6 +100,9 @@ Built a hybrid movie recommender combining traditional collaborative filtering w
 ---
 
 ### 📚 [Agentellic](https://github.com/ferdaousbouzaiene/agentellic)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](your-deployed-app-url)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black)](https://github.com/me/agentellic)
+
 Implemented Retrieval-Augmented Generation (RAG) using LLMs to create a chatbot that answers questions from PDF documents.
 
 - Tools: Python, pandas, scikit-learn, OpenAI GPT-4, Streamlit  
@@ -162,6 +117,9 @@ Implemented Retrieval-Augmented Generation (RAG) using LLMs to create a chatbot 
 ---
 
 ### 📚 [PDF Q&A Chatbot with RAG](https://github.com/ferdaousbouzaiene/RagProject)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](your-deployed-app-url)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black)](https://github.com/me/RagProject)
+
 Implemented Retrieval-Augmented Generation (RAG) using LLMs to create a chatbot that answers questions from PDF documents.
 
 - Tools: LangChain, OpenAI API, FAISS, Streamlit  
