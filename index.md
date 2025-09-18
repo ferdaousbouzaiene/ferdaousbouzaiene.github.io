@@ -25,9 +25,11 @@ Welcome to my digital playground where I turn messy datasets into meaningful sto
 ## Projects
 
 ### 🍄🥾 [Spores & Outdoors](https://github.com/ferdaousbouzaiene/Spores-Outdoors)
-*Because sometimes you need an AI to tell you if it's mushroom weather* ☔
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://spores-outdoors-iuuvvacjpqlqmg6ejunewm.streamlit.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black)](https://github.com/ferdaousbouzaiene/Spores-Outdoors)
+
+*Because sometimes you need an AI to tell you if it's mushroom weather* ☔
+
 
 Ever wondered if today's weather is perfect for mushroom hunting or if you should just stick to Netflix? This cheeky little app combines real-time weather data with questionable life advice to give you scientifically-backed outdoor recommendations!
 
@@ -154,7 +156,7 @@ Built a content-based recommendation system for restaurants using TF-IDF and cos
 - 🎯 My code has a 78% success rate on first try (the other 22% involves creative debugging and possibly tears)
 
 ---
-
+---
 
 ## Resumé (or CV?)
 
