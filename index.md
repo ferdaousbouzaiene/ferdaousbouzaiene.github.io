@@ -12,7 +12,7 @@ Welcome to my digital playground where I turn messy datasets into meaningful sto
 
 | Category             | Skills & Secret Weapons |
 |----------------------|-------------------------|
-| **Programming**      | Python 🐍 (my spirit animal (not)), SQL 📊 (for when data needs therapy), Git 🔄 (time machine for code) |
+| **Programming**      | Python 🐍 , SQL 📊 (for when data needs therapy), Git 🔄 (time machine for code) |
 | **Machine Learning** | End-to-end ML pipelines (from "uh oh" to "ta-da!"), Recommendation Systems 🎯 (digital cupid), Feature Engineering 🔧 (data plastic surgery) |
 | **LLMs & NLP**       | Making robots talk like humans 🤖💬, RAG systems (teaching AI to Google properly), Prompt Engineering 🎭 (AI whispering) |
 | **Deep Learning**    | Neural networks that actually work ⚡, Transfer Learning (because why reinvent the wheel?), PyTorch & TensorFlow (my computational paintbrushes) |
@@ -42,12 +42,13 @@ Ever wondered if today's weather is perfect for mushroom hunting or if you shoul
   - PostgreSQL integration to log weather + user queries
   - Data science notebooks for EDA and modeling future predictions
   - Playful UI with custom fonts, blurred background image, and verdicts
+[More about project:](/Spores-Outdoors)
 
 ---
 
 ### 🤖 AI Fitness Recommender Pro Gym Coach Fitness Trainer Buddy 🤖
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](your-deployed-app-url)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black)](your-github-repo-url)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](url)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black)]([your-github-repo-url](https://github.com/ferdaousbouzaiene/gymcoachapp))
 
 **Multi-Agent Machine Learning System for Personalized Fitness Planning**
 
@@ -61,6 +62,7 @@ Developed a production-ready AI fitness recommendation system combining **multi-
 **Tech Stack**: Python, scikit-learn, CrewAI, Streamlit, Plotly  
 **Impact**: Personalized recommendations for diverse equipment constraints and fitness goals
 
+[More about project:](/coach-gym-app)
 
 ---
 
@@ -82,6 +84,7 @@ Safety-first **mushroom identification demo** using computer vision and API-firs
 - **Extra**: Optional heatmap visualization from species occurrence data  
 
 **Impact:** Demonstrates **end-to-end ML engineering** (model serving, inference API, frontend integration, Dockerization, CI/testing). Shows awareness of **safety-critical UX** by abstaining on low confidence predictions.
+[More about project:](/mushroom)
 
 ---
 ### 🎬 [Show Recommendation System with LLMs](https://github.com/ferdaousbouzaiene/showrecommender)
@@ -115,6 +118,7 @@ Implemented Retrieval-Augmented Generation (RAG) using LLMs to create a chatbot 
   - Streamlit app with natural language input for interactive querying  
 
 **Impact**: Showcases how to blend classical ML with modern LLMs to create intuitive, explainable recommendations.  
+[More about project:](/Agentellic)
 
 ---
 
@@ -131,6 +135,7 @@ Implemented Retrieval-Augmented Generation (RAG) using LLMs to create a chatbot 
   - Lightweight UI to demo retrieval performance  
 
 **Impact**: Reinforces knowledge of vector search + RAG patterns, key skills for modern AI engineering.  
+[More about project:](/RagChatbot)
 
 ---
 <!--
