@@ -88,7 +88,8 @@ Safety-first **mushroom identification demo** using computer vision and API-firs
 
 ---
 ### 🎬 [Show Recommendation System with LLMs](https://github.com/ferdaousbouzaiene/showrecommender)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)]([url](https://ferdaousbouzaiene-showrecommender-streamlit-app-ssjfn3.streamlit.app/))
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://ferdaousbouzaiene-showrecommender-streamlit-app-ssjfn3.streamlit.app/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black)](https://github.com/ferdaousbouzaiene/showrecommender)
 
 Built a hybrid movie recommender combining traditional collaborative filtering with a GPT-powered semantic engine that generates personalized suggestions from movie metadata.
