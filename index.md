@@ -109,17 +109,7 @@ Built a hybrid movie recommender combining traditional collaborative filtering w
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](url)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black)](https://github.com/ferdaousbouzaiene/agentellic)
 
-Implemented Retrieval-Augmented Generation (RAG) using LLMs to create a chatbot that answers questions from PDF documents.
 
-- Tools: Python, pandas, scikit-learn, OpenAI GPT-4, Streamlit  
-- Highlights:
-  - Collaborative filtering from user ratings (matrix factorization)  
-  - Content-based similarity with genres and keywords  
-  - LLM-generated recommendations: “If you liked X, try Y because…”  
-  - Streamlit app with natural language input for interactive querying  
-
-**Impact**: Showcases how to blend classical ML with modern LLMs to create intuitive, explainable recommendations.  
-[More about project:](/Agentellic)
 
 ---
 
