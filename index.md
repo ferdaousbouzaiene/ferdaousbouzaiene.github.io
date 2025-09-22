@@ -1,5 +1,5 @@
-# 👋 Hey there! I'm [ferdaous] 
-## 🧠 Full-time Data Whisperer ✨ • 🍕 Part-time Ramen Connoisseur 🍜 • 🤖 Occasional Nature Lover 🍀
+# 👋 Hey there! I'm [ferdaous] 🫰
+## 🧠 Full-time Data Whisperer ✨ • 🍕 Part-time Couscous Connoisseur 🍜 •  🐛 Bugs in Nature > Bugs in Code 🍀 
 
 Welcome to my digital playground where I turn messy datasets into meaningful stories, build recommendation engines that know you better than you know yourself, and occasionally teach machines to identify whether that mushroom will kill you or not! 🍄☠️
 
