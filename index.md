@@ -49,7 +49,7 @@ Ever wondered if today's weather is perfect for mushroom hunting or if you shoul
 
 ### 🤖 AI Fitness Recommender Pro Gym Coach Fitness Trainer Buddy 🤖
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](url)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black)]((https://github.com/ferdaousbouzaiene/gymcoachapp))
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black)](https://github.com/ferdaousbouzaiene/Spores-Outdoors)
 
 **Multi-Agent Machine Learning System for Personalized Fitness Planning**
 
