@@ -1,5 +1,5 @@
 # 👋 Hey there! I'm [ferdaous] 🫰
-## 🧠 Full-time Data Whisperer ✨ • 🍕 Part-time Couscous Connoisseur 🍜 •  🐛 Bugs in Nature > Bugs in Code 🍀 
+## 🧠 Full-time Data Whisperer ✨ • 🍲 Part-time Couscous Connoisseur 🇹🇳 •  🐛 Bugs in Nature > Bugs in Code 🍀 
 
 Welcome to my digital playground where I turn messy datasets into meaningful stories, build recommendation engines that know you better than you know yourself, and occasionally teach machines to identify whether that mushroom will kill you or not! 🍄☠️
 
@@ -25,7 +25,7 @@ Welcome to my digital playground where I turn messy datasets into meaningful sto
 ## Projects
 
 ### 🍄🥾 Spores & Outdoors
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://spores-outdoors-iuuvvacjpqlqmg6ejunewm.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://ferdaousbouzaiene-spores-outdoors-appstreamlit-app-info-pj33mc.streamlit.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black)](https://github.com/ferdaousbouzaiene/Spores-Outdoors)
 
 *Because sometimes you need an AI to tell you if it's mushroom weather* ☔
@@ -42,6 +42,7 @@ Ever wondered if today's weather is perfect for mushroom hunting or if you shoul
   - PostgreSQL integration to log weather + user queries
   - Data science notebooks for EDA and modeling future predictions
   - Playful UI with custom fonts, blurred background image, and verdicts
+
 [More about project:](/Spores-Outdoors)
 
 ---

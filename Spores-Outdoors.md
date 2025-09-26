@@ -1,6 +1,6 @@
 # 🍄🥾 Spores & Outdoors: Weather-Driven Outdoor Activity Recommender
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://spores-outdoors-iuuvvacjpqlqmg6ejunewm.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://ferdaousbouzaiene-spores-outdoors-appstreamlit-app-info-pj33mc.streamlit.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black)](https://github.com/ferdaousbouzaiene/Spores-Outdoors)
 
 ## What it does
